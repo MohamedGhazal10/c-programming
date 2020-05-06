@@ -86,9 +86,11 @@ void squares(int size1, int x_offset, int y_offset, int size2) {
   }
 
 }
+
 int main(void){
-  int a,b,c,d;
+  int a, b, c, d;
   scanf("%d %d %d %d", &a, &b, &c, &d);
-  squares(a,b,c,d);
+  squares(a, b, c, d);
+  
   return EXIT_SUCCESS;
 }
