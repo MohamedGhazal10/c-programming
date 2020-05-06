@@ -1,9 +1,14 @@
-Grading at Wed May  6 07:26:30 UTC 2020
-Trying to compile your code and link with squares_test.o
-squares_test.o: In function `main':
-squares_test.c:(.text+0xe2): multiple definition of `main'
-/tmp/ccu52hkz.o:squares.c:(.text+0x1d4): first defined here
-collect2: error: ld returned 1 exit status
-Could not compile your code
+Grading at Wed May  6 08:18:35 UTC 2020
+I expected to find a file called 'squares_test.o' but it did not exist
+(or was not a regular file)
+Here are the files that I can find:
+ans_3_5_8_2.txt
+ans_5_2_4_6.txt
+ans_9_2_3_4.txt
+grade.txt
+myout.txt
+README
+squares.c
+Cannot proceed without squares_test.o
 
 Overall Grade: FAILED
