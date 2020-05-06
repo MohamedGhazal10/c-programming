@@ -1,0 +1,14 @@
+Grading at Wed May  6 08:18:35 UTC 2020
+I expected to find a file called 'squares_test.o' but it did not exist
+(or was not a regular file)
+Here are the files that I can find:
+ans_3_5_8_2.txt
+ans_5_2_4_6.txt
+ans_9_2_3_4.txt
+grade.txt
+myout.txt
+README
+squares.c
+Cannot proceed without squares_test.o
+
+Overall Grade: FAILED
